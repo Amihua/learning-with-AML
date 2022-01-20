@@ -10,7 +10,7 @@
 
 知道当前画面（或者最近几帧画面）就能够做出正确的决策，决定下一步是让超级玛丽向左、向右、或是向上。因此，状态是做决策的依据。
 
-![image-20220117180534919](C:\Users\melon\AppData\Roaming\Typora\typora-user-images\image-20220117180534919.png)
+![image-20220117180534919](https://gitee.com/amihua/picgo/raw/master/image-20220117180534919.png)
 
 ### 状态空间（state space）
 
