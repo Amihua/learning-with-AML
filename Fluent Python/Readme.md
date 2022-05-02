@@ -1,4 +1,7 @@
 # Fluent Python 笔记
+
+《Fluent Python》读书笔记！
+
 主要记载Python更高级的一些编程技巧，使得自己更加Pythonic！
 
 ## 目录
